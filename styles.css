@@ -266,7 +266,8 @@ footer {
 }
 
 .education-table td:hover,
-.projects-table td:hover {
+.projects-table td:hover,
+.contact-item:hover {
     background-color: #c9e2f3;
     color: #fff;
 }
@@ -293,6 +294,7 @@ footer {
 .contact-item {
     display: flex;
     align-items: center;
+    border-radius: 10px;
 }
 
 .contact-item p {
