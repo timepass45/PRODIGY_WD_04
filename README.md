@@ -41,11 +41,6 @@ Connect with me through the provided contact form. Reach out via phone, email, o
 
 Visit the live demo of this project: [PRODIGY_WD_04 Demo](https://timepass45.github.io/PRODIGY_WD_04/)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to explore the sections and get in touch! Your feedback is highly appreciated.
-
