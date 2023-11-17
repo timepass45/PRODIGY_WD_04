@@ -1,6 +1,5 @@
 # PRODIGY_WD_04
-Personal Portfolio Website
-# Project PRODIGY_WD_04
+# Personal Portfolio Website
 
 Welcome to PRODIGY_WD_04! This project showcases my web development skills and serves as a portfolio website. It includes sections such as an introduction, about me, skills, education, projects, and a contact form.
 
